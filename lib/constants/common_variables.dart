@@ -1,0 +1,29 @@
+abstract class CommonVariables {
+  static const String isAndroid = "isAndroid";
+  static const String isLogin = "isLogin";
+  static const String isIntroDone = "isIntroDone";
+  static const String otp = "otp";
+  static const String checkTimer = "checkTimer";
+  static const String authorizationToken = "authorizationToken";
+  static const String name = "name";
+  static const String email = "email";
+  static const String emailVerified = "emailVerified";
+  static const String avatar = "avatar";
+  static const String birthday = "birthday";
+  static const String gender = "gender";
+  static const String serviceType = "serviceType";
+  static const String mobile = "mobile";
+  static const String accountId = "accountId";
+  static const String mapType = "mapType";
+  static const String notificationStatus = "notificationStatus";
+  static const String address = "address";
+  static const String stateId = "stateId";
+  static const String cityId = "cityId";
+  static const String cityName = "cityName";
+  static const String stateName = "stateName";
+  static const String notificationCount = "notificationCount";
+  static const String razorOrderId = "razorOrderId";
+  static const String skipClaimOffer = "skipClaimOffer";
+  static const String mBaseChargeData = "mBaseChargeData";
+  static const String mAccountBalance = "mAccountBalance";
+}
